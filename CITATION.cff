@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the source dataset publication when appropriate."
+title: "OralHealth AI Research Starter"
+type: software
+version: 0.1.0
+authors:
+  - family-names: "Souza"
+    given-names: "Paulo Vitor de Campos"
+repository-code: "https://github.com/pdecampossouza/OralHealth-AI-Research-Starter"
+license: MIT

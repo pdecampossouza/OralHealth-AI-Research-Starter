@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+outputs/
+models/
+weights/
+*.pt
+*.pth
+data/your_research_data/images/*
+data/your_research_data/annotations/*
+!data/your_research_data/images/.gitkeep
+!data/your_research_data/annotations/.gitkeep

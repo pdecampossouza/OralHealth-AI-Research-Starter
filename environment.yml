@@ -1,0 +1,20 @@
+name: oralhealth-ai-research-starter
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python>=3.10
+  - pandas>=2.0
+  - numpy>=1.26
+  - pillow>=10.0
+  - matplotlib>=3.8
+  - pyyaml>=6.0
+  - scikit-learn>=1.4
+  - scikit-image>=0.22
+  - opencv>=4.9
+  - pytorch>=2.2
+  - torchvision>=0.17
+  - jupyter>=1.0
+  - nbclient>=0.10
+  - nbformat>=5.9
+  - pytest>=8.0
