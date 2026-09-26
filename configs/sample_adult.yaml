@@ -1,0 +1,4 @@
+dataset:
+  image_dir: data/sample_adult/images
+  metadata: data/sample_adult/metadata.csv
+  group: adult

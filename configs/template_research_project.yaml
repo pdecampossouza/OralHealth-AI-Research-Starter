@@ -1,0 +1,4 @@
+dataset:
+  image_dir: data/your_research_data/images
+  metadata: data/your_research_data/metadata.csv
+  group: custom

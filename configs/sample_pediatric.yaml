@@ -1,0 +1,4 @@
+dataset:
+  image_dir: data/sample_pediatric/images
+  metadata: data/sample_pediatric/metadata.csv
+  group: pediatric
